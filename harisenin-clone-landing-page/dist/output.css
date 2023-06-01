@@ -940,6 +940,11 @@ video {
   color: rgb(16 185 129 / var(--tw-text-opacity));
 }
 
+.hover\:text-emerald-600:hover {
+  --tw-text-opacity: 1;
+  color: rgb(5 150 105 / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:flex {
     display: flex;
